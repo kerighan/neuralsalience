@@ -10,7 +10,7 @@ setuptools.setup(
     author="Maixent Chenebaux",
     author_email="max.chbx@gmail.com",
     description="Embeddings ponderation scheme, freely adapted from the paper : 'Learning Neural Word Salience Scores' https://arxiv.org/pdf/1709.01186.pdf",
-    url="https://github.com/kerighan/dikt",
+    url="https://github.com/kerighan/neuralsalience",
     packages=setuptools.find_packages(),
     include_package_data=True,
     install_requires=["keras", "numpy"],
